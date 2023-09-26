@@ -1,0 +1,15 @@
+.header-component {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: aqua;
+    width: 100%;
+}
+
+.header-component h2 {
+    padding-left: 100px;
+}
+
+.header-component img {
+    padding-right: 100px;
+}

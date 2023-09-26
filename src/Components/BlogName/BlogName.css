@@ -1,0 +1,28 @@
+.blog-container {
+    display: grid;
+    grid-template-columns: 4fr 1fr;
+    margin: 30px;
+}
+
+.blog-image {
+    width: 845px;
+    height: 450px;
+    border-radius: 30px;
+}
+
+.author-image {
+    width: 60px;
+    height: 60px;
+    border-radius: 60px;
+}
+
+.info-container {
+    display: flex;
+    justify-content: space-between;
+}
+
+.Author-container {
+    display: flex;
+    justify-content: space-evenly;
+
+}
